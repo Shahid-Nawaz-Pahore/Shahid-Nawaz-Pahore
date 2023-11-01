@@ -1,5 +1,5 @@
-Hi 👋 My name is Shahid Nawaz
-=============================Blockchain Engineer-------------------Blockchain | DApp Developer | Solidity | NFTs | JavaScript | ReactJs | NextJs | Hardhat | EtherJs | Transforming Ideas into Code* ✉️  You can contact me at [shahidnawaz.edu.pk@gmail.com](mailto:shahidnawaz.edu.pk@gmail.com)* 🧠  I'm learning Blockchain and AI
+Hi 👋 My name is Shahid Nawaz Blockchain Engineer
+| DApp Developer | Solidity | NFTs | JavaScript | ReactJs | NextJs | Hardhat | EtherJs | Transforming Ideas into Code* ✉️  You can contact me at [shahidnawaz.edu.pk@gmail.com](mailto:shahidnawaz.edu.pk@gmail.com)* 🧠  I'm learning Blockchain and AI
 
 <a href="https://www.github.com/Shahid-Nawaz-Pahore" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shahid-Nawaz-Pahore?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
